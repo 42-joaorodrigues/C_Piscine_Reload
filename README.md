@@ -38,3 +38,7 @@ This series of exercises reinforces core C concepts, including functions, loops,
 27. **🔢 Exercise 26: `ft_count_if`** - Count array elements that satisfy a condition.
 28. **📂 Exercise 27: `display_file`** - Program to display a file’s content.
 
+## 📜 License
+
+This repository is intended for educational and personal reference as part of the 42 School program.
+
